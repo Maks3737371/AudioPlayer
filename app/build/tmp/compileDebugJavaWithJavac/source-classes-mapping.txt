@@ -1,0 +1,22 @@
+com/example/mediaplayer/di/AppViewModelFactory_Factory.java
+ com.example.mediaplayer.di.AppViewModelFactory_Factory
+com/example/mediaplayer/di/AppModule_ProvideAppContextFactory.java
+ com.example.mediaplayer.di.AppModule_ProvideAppContextFactory
+com/example/mediaplayer/res/AppResourcesImpl_Factory.java
+ com.example.mediaplayer.res.AppResourcesImpl_Factory
+com/example/mediaplayer/ui/MainActivity_MembersInjector.java
+ com.example.mediaplayer.ui.MainActivity_MembersInjector
+com/example/mediaplayer/json/DefaultTrackCatalog_Factory.java
+ com.example.mediaplayer.json.DefaultTrackCatalog_Factory
+com/example/mediaplayer/databinding/ActivityMainBinding.java
+ com.example.mediaplayer.databinding.ActivityMainBinding
+com/example/mediaplayer/di/AppModule_ProvideAssetManagerFactory.java
+ com.example.mediaplayer.di.AppModule_ProvideAssetManagerFactory
+com/example/mediaplayer/ui/MainViewModel_Factory.java
+ com.example.mediaplayer.ui.MainViewModel_Factory
+com/example/mediaplayer/BuildConfig.java
+ com.example.mediaplayer.BuildConfig
+com/example/mediaplayer/di/DaggerAppComponent.java
+ com.example.mediaplayer.di.DaggerAppComponent
+ com.example.mediaplayer.di.DaggerAppComponent$1
+ com.example.mediaplayer.di.DaggerAppComponent$Builder
